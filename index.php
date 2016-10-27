@@ -1,1 +1,2 @@
-<?php header('location:views/home.php');  ?>
+<?php echo 'Você será redirecionado!'; 
+      header('location:views/home.php');?>
